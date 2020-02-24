@@ -1,0 +1,9 @@
+C:\Users\fb190\Desktop\yapay zeka\yapay zeka\yapay zeka\bin\Debug\yapay zeka.exe.config
+C:\Users\fb190\Desktop\yapay zeka\yapay zeka\yapay zeka\bin\Debug\yapay zeka.exe
+C:\Users\fb190\Desktop\yapay zeka\yapay zeka\yapay zeka\bin\Debug\yapay zeka.pdb
+C:\Users\fb190\Desktop\yapay zeka\yapay zeka\yapay zeka\obj\Debug\yapay zeka.csprojAssemblyReference.cache
+C:\Users\fb190\Desktop\yapay zeka\yapay zeka\yapay zeka\obj\Debug\yapay_zeka.Form1.resources
+C:\Users\fb190\Desktop\yapay zeka\yapay zeka\yapay zeka\obj\Debug\yapay_zeka.Properties.Resources.resources
+C:\Users\fb190\Desktop\yapay zeka\yapay zeka\yapay zeka\obj\Debug\yapay zeka.csproj.GenerateResource.cache
+C:\Users\fb190\Desktop\yapay zeka\yapay zeka\yapay zeka\obj\Debug\yapay zeka.exe
+C:\Users\fb190\Desktop\yapay zeka\yapay zeka\yapay zeka\obj\Debug\yapay zeka.pdb
